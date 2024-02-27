@@ -4,6 +4,8 @@ My take on SSD class project (Symulacja Systemów Dyskretnych [PL]).
 
 This project simulates the growth of fungi using cellular automata. The simulation is visualized using Pygame.
 
+![Fungal Growth Simulation](model4b-example_simulation.gif)
+
 ## Project Structure
 
 The project is organized into several Python scripts and modules:
